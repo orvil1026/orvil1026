@@ -13,8 +13,8 @@
 - 🤝 I’m looking for help with **Machine Learning**
 <!-- - 💬 Ask me about **** -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=orvil1026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orvil1026&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=orvil1026&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=orvil1026&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 
