@@ -8,9 +8,9 @@
 
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" /> -->
 
-- 🌱 I’m currently learning **Flutter and Computer Vision**
+- 🌱 I’m currently learning **Flutter,Computer Vision and Containers**
 - 👯 I’m looking to collaborate on **Django**
-- 🤝 I’m looking for help with **Machine Learning**
+
 <!-- - 💬 Ask me about **** -->
 <p>
   <img  src="https://github-readme-stats.vercel.app/api?username=orvil1026&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
