@@ -8,8 +8,8 @@
 
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" /> -->
 
-- 🌱 I’m currently learning **Flutter,Computer Vision and Containers**
-- 👯 I’m looking to collaborate on **Django**
+- 🌱 I’m currently learning **Flutter,DSA and AWS**
+- 👯 I’m looking to collaborate on **Django and Flutter**
 
 <!-- - 💬 Ask me about **** -->
 <p>
