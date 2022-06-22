@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Orvil D'silva</h1>
-<h3 align="center">A Python Developer </h3>
+<h3 align="center">A Python/Flutter Developer </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/OrvilDsilva-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/orvil-d-silva-469a331b4/)
 
