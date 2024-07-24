@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Orvil D'silva</h1>
-<h3 align="center">A Python/Flutter Developer </h3>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/OrvilDsilva-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/orvil-d-silva-469a331b4/)
 
@@ -8,8 +8,8 @@
 
 <!-- <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="300px" /> -->
 
-- 🌱 I’m currently learning **Flutter,DSA and AWS**
-- 👯 I’m looking to collaborate on **Django and Flutter**
+- 🌱 I’m currently learning **ML,DSA and SQL**
+
 
 <!-- - 💬 Ask me about **** -->
 <p>
